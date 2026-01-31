@@ -167,7 +167,7 @@ Complete the WordPress installation using the UI.
 
 ### Author
 
-**Ganesh Jadhav** 
+**Hrishikesh khandagale** 
 
 Cloud & DevOps Enthusiast
 
