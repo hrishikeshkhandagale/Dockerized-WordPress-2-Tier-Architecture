@@ -2,7 +2,7 @@
 
 ##  Project Overview
 
-This project demonstrates a **2-Tier architecture** using **Docker**, where:
+This project demonstrates a **2-Tier architecture** using **Docker**, where:.
 
 - **Tier 1 (Application Layer):** WordPress container  
 - **Tier 2 (Database Layer):** MySQL container  
